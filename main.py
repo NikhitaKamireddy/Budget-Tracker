@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request, redirect
 import pandas as pd
 import os
+//flask framework usage//
 
 app = Flask(__name__)
 
